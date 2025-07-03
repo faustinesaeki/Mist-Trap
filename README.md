@@ -1,5 +1,10 @@
 # Mist-Trap
-Web application for some fan web-site about Tekken 7 on Vue.js
+
+### (Vue.js, Vue Router, CSS)
+
+**Link:** https://6866915b7824c03cdecfee66--hilarious-cranachan-3f1ddb.netlify.app/
+
+Web application for some fan web-site about Tekken 7 on Vue.js idk
 
 - src/components - re-used components for pages (navbar, random user, character rating form, character search)
 - src/views - pages
